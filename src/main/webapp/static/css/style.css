@@ -1,0 +1,11 @@
+#logar { width: 400px; margin-left: auto; margin-right: auto; margin-top: 100px; }
+#btn-entrar { width: 60%; }
+#btn-sair {	margin-top: 7px; }
+#btn-buscar { margin-top: 25px; }
+.rodape { padding-left: 20%; padding-right: 20%; }
+#btn-login { color: white; }
+#btns-login { padding-left: 41%; } 
+#btn-cadastrar {  }
+.bandeira { height: 25px }
+#form-pizzaria input[type="password"] { height: 34px; padding: 6px 12px; }
+#div-home h1 { margin-left: 15px; }
